@@ -22,4 +22,4 @@ aburi karubi
 </code></pre>
 
 ## TODO
-[ ] add --detail flag using Apple Dictionary or Web Dictionary
+- [ ] add --detail flag using Apple Dictionary or Web Dictionary
