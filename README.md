@@ -7,6 +7,10 @@ CLI Application for quick reference of Japanese-Yomikata.
 
 ## Usage
 <pre>
+<code>$ python -m yomitai [OPTIONS] WORDS
+</code></pre>
+
+<pre>
 <code>$ yomitai 劈く 
 つんざく
 </code></pre>
