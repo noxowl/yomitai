@@ -1,5 +1,9 @@
 # yomitai
+[![PyPI version](https://badge.fury.io/py/yomitai.svg)](https://badge.fury.io/py/yomitai)
+
 CLI Application for quick reference of Japanese-Yomikata.
+
+* <code>pip install yomitai</code>
 
 ## Usage
 <pre>
